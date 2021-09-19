@@ -1,2 +1,2 @@
 # prisma-tutorial
-repo for introductino to prisma tutorial 
+repo for [introduction to prisma](https://www.youtube.com/watch?v=HyDJi47adSM)
